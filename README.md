@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I’m Chuks
 
-<!--
-**braymondchuks/braymondchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **aspiring mobile developer** building a strong foundation in software development, with a background in **Political Science** and an interest in how technology can improve public systems and decision-making.
 
-Here are some ideas to get you started:
+I’m currently focused on learning core development concepts, writing clear documentation, and gradually building practical projects as I grow my technical skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m working on
+
+* Mobile development fundamentals
+* Structured learning through notes and small projects
+
+---
+
+## 🧠 Areas of interest
+
+* Mobile applications
+* Digital systems
+* Tech-enabled policy and governance
+
+---
+
+## 🎯 Current goals
+
+* Build and ship beginner-level mobile projects
+* Develop consistent coding habits
+* Strengthen the link between **technology and public impact**
+
+---
+
+## 📚 Background
+
+* Political Science undergraduate (Final Year)
+* Strong interest in technology, research, and problem-solving
+
+---
+
+## 🔗 Connect
+
+* LinkedIn: ADD LINK
+* Projects & learning notes: see repositories
