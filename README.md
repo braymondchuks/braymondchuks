@@ -36,7 +36,3 @@ I’m currently focused on learning core development concepts, writing clear doc
 
 ---
 
-## 🔗 Connect
-
-* LinkedIn: ADD LINK
-* Projects & learning notes: see repositories
